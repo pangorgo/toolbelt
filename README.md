@@ -7,3 +7,4 @@ List of online tools to use
  ## Networking
 
  - **ifconfig.io** - just curl it and get your public IP address
+ - **https://ngrok.com/** - expose local sockets as a public FQDNs
